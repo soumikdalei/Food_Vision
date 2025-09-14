@@ -8,7 +8,7 @@ It demonstrates image preprocessing, model building, training, evaluation, and p
 ## 📌 Overview
 
 The project applies modern computer vision techniques to recognize food categories from images.  
-It includes both a **Jupyter/Colab notebook** for step-by-step experimentation and **Python scripts** for modular reusability.
+It includes both a **Jupyter/Colab notebook pdf** for step-by-step experimentation and **Python scripts** for modular reusability.
 
 ---
 
