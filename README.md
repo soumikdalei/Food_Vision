@@ -14,7 +14,7 @@ It includes both a **Jupyter/Colab notebook pdf** for step-by-step experimentati
 
 ## ✨ Features
 
-- Image preprocessing (resizing, normalization, augmentation)  
+- Image preprocessing (resizing)  
 - Deep Learning model for food classification (CNN / transfer learning)  
 - Helper functions for modular and reusable code  
 - Achieved 78% accuracy on food101 dataset
